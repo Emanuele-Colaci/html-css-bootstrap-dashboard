@@ -6,6 +6,7 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+    background-color: #f8f9fa;
 }
 
 .width-conatiner{
@@ -21,7 +22,7 @@ body{
 /* SIDEBAR */
 .sidebar{
     background-image: url(../img/sidebar-bg.png);
-    height: 90.3vh;
+    height: 200vh;
     width: 100px;
     background-color: #051e34;
 }
@@ -55,3 +56,43 @@ body{
     margin-bottom: 15px;
 }
 /* FINE TOP BAR */
+
+/* MAIN */
+.bg-grey{
+    background-color: #f7f7f7;
+}
+
+.margin-left{
+    margin-left: 100px;
+}
+
+.margin-nome{
+    margin-right: 300px;
+}
+
+.font-list{
+    font-size: 10px;
+}
+
+.font-list1{
+    font-size: 13px;
+}
+
+.width-avatar{
+    width: 18px;
+}
+
+.fa-pencil, .fa-trash{
+    border: 1px solid grey;
+    color: grey;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.margin-data{
+    margin-right: 38px;
+}
+
+.stats{
+    width: 10px;
+}
