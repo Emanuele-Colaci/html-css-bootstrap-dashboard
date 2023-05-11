@@ -64,10 +64,6 @@ header{
     margin-right: 5px;
 }
 
-ul a{
-    
-}
-
 .home:hover, .stats:hover, .signal:hover, .admin:hover{
     background-color: gray;
 }
@@ -145,4 +141,8 @@ ul a{
 
 .margin-data{
     margin-right: 30px;
+}
+
+.container-right{
+    width: 100%;
 }
