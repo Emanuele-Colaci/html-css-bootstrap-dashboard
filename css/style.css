@@ -65,8 +65,7 @@ header{
 }
 
 ul a{
-    color: #fff;
-    text-decoration: none;
+    
 }
 
 .home:hover, .stats:hover, .signal:hover, .admin:hover{
